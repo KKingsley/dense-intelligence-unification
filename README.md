@@ -73,4 +73,14 @@
 
 ---
 
+## 许可证
+
+本作品采用 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) 许可证发布。
+
+[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+您可以自由地**共享**（复制、分发）和**演绎**（修改、转换、基于本作品创作）本作品，但须**署名**原作者。
+
+---
+
 *本项目为个人学术探索，非商业用途。*
