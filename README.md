@@ -51,7 +51,6 @@
 | [DIU-wip-supplements.md](DIU-wip-supplements.md) | WIP-1~8 补充命题（$\mathcal{D}_1$ 序 / 算力 / 映射 / 层级证明 / 训练目标 / 多模态 / 熵 / 动态 DIU） |
 | [DIU-appendix-a.md](DIU-appendix-a.md) | 附录 A：核心结构图（6 图）+ 参考文献 [R1~R27] |
 | [DIU-appendix-b.md](DIU-appendix-b.md) | 附录 B：实验设计 |
-| [DIU-popular-article.md](DIU-popular-article.md) | 科普文章 |
 | [DIU-references.md](DIU-references.md) | 参考文献完整列表 |
 
 ---
@@ -59,7 +58,6 @@
 ## 快速阅读路径
 
 ```
-入门   →  DIU-popular-article.md（科普）
 概览   →  DIU-WIKI.md（导航 + 速查）
 全文   →  DIU-full.md（单文件，推荐）
 深读   →  DIU-01 → 02 → 03 → 04 → 05 → 06 → 07 → wip → appendix
