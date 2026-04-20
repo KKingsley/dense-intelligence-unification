@@ -1,0 +1,32 @@
+---
+title: "稠密智能统一论（Dense Intelligence Unification, DIU）"
+subtitle: "基于测度论的智能能力统一框架"
+date: "2026"
+toc: true
+toc-depth: 2
+numbersections: true
+colorlinks: true
+linkcolor: blue
+
+# PDF（xelatex）字体配置
+mainfont: "Times New Roman"
+CJKmainfont: "Microsoft YaHei"
+CJKoptions:
+  - BoldFont=Microsoft YaHei Bold
+monofont: "Courier New"
+fontsize: 11pt
+geometry: "top=2.5cm, bottom=2.5cm, left=3cm, right=3cm"
+linestretch: 1.4
+
+# 文档元数据
+subject: "人工智能理论"
+keywords:
+  - 测度论
+  - 知识流形
+  - 智能统一
+  - AGI边界
+  - 稠密度层级
+
+# 开放授权
+rights: "本作品采用 CC BY 4.0 国际许可协议开放。任何人可自由使用、修改、再发布，须注明来源。"
+---
