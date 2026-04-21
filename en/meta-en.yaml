@@ -1,0 +1,30 @@
+---
+title: "Dense Intelligence Unification (DIU): A Measure-Theoretic Framework for AI Capability"
+subtitle: "A Unified Framework for Characterizing and Comparing Artificial Intelligence Systems"
+author: "Kingsley (Li, Xin)"
+date: "2026"
+toc: true
+toc-depth: 2
+numbersections: true
+colorlinks: true
+linkcolor: blue
+
+mainfont: "Times New Roman"
+monofont: "Courier New"
+fontsize: 11pt
+geometry: "top=2.5cm, bottom=2.5cm, left=3cm, right=3cm"
+linestretch: 1.4
+
+subject: "Artificial Intelligence"
+keywords:
+  - measure theory
+  - knowledge manifold
+  - intelligence unification
+  - AGI boundary
+  - density hierarchy
+  - LLM evaluation
+  - architecture unification
+  - cardinality ceiling
+
+rights: "This work is licensed under CC BY 4.0 International. Free to share and adapt with attribution."
+---

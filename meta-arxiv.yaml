@@ -1,0 +1,33 @@
+---
+title: "Dense Intelligence Unification (DIU): A Measure-Theoretic Framework for AI Capability"
+subtitle: "稠密智能统一论"
+author: "Kingsley"
+date: "2026"
+toc: true
+toc-depth: 2
+numbersections: true
+colorlinks: true
+linkcolor: blue
+
+# arXiv Linux TeX Live 可用字体（Fandol 系列）
+mainfont: "FandolSong"
+CJKmainfont: "FandolSong"
+CJKoptions:
+  - BoldFont=FandolHei
+monofont: "FreeMono"
+fontsize: 11pt
+geometry: "top=2.5cm, bottom=2.5cm, left=3cm, right=3cm"
+linestretch: 1.4
+
+# arXiv 元数据
+subject: "Artificial Intelligence"
+keywords:
+  - measure theory
+  - knowledge manifold
+  - intelligence unification
+  - AGI boundary
+  - density hierarchy
+  - LLM evaluation
+
+rights: "This work is licensed under CC BY 4.0."
+---

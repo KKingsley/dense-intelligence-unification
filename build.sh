@@ -31,4 +31,12 @@ pandoc meta.yaml $FILES \
 echo "Word 输出：DIU.docx"
 
 echo ""
+echo "=== 编译 LaTeX（arXiv 投稿用）==="
+pandoc meta-arxiv.yaml $FILES \
+  --standalone \
+  --toc \
+  -o DIU.tex
+echo "LaTeX 输出：DIU.tex"
+
+echo ""
 echo "=== 完成 ==="

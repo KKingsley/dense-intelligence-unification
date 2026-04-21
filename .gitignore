@@ -3,3 +3,7 @@
 ~WRL*
 *.docx
 *.pdf
+token.txt
+github token.txt
+dist/
+experiments/results/
